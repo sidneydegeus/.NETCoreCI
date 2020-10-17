@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIAPI", "CIAPI\CIAPI.csproj", "{0A22D286-9D62-4E7F-AB09-2B79701882D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIAPI.Test", "CIAPI.Test\CIAPI.Test.csproj", "{2B1291DC-BF5F-47FE-A30B-101348EFB143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A22D286-9D62-4E7F-AB09-2B79701882D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A22D286-9D62-4E7F-AB09-2B79701882D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A22D286-9D62-4E7F-AB09-2B79701882D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A22D286-9D62-4E7F-AB09-2B79701882D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1291DC-BF5F-47FE-A30B-101348EFB143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1291DC-BF5F-47FE-A30B-101348EFB143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1291DC-BF5F-47FE-A30B-101348EFB143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1291DC-BF5F-47FE-A30B-101348EFB143}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A12E1C3-8D85-47E8-8047-A5BF68916ADA}
+	EndGlobalSection
+EndGlobal
